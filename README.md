@@ -63,4 +63,5 @@ Organizations, travel planners, and operations teams often need "real-time weath
 * ⚡ "Automated Refresh" ensures the dashboard always displays updated weather.
 
  5. Screenshots / Demos
+  https://github.com/NehaBanjara/Weather-Dashboard/blob/main/Snapshot%20of%20dashboard.png
   
